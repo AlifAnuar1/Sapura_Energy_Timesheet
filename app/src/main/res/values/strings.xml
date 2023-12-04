@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Sapura Energy Timesheet</string>
+    <string name="timesheet_title">Sapura Energy Timesheet Entries</string>
+    <string name="timesheet_task_title">Task</string>
+    <string name="timesheet_search">Search</string>
+    <string name="timesheet_create">Create</string>
+    <string name="timesheet_project">Project :</string>
+    <string name="timesheet_task">Task :</string>
+    <string name="timesheet_assigned_to">Assigned To :</string>
+    <string name="timesheet_from">From</string>
+    <string name="timesheet_to">To</string>
+    <string name="timesheet_status">Status :</string>
+    <string name="timesheet_entry_title">Timesheet Entry</string>
+
+    <string name="entry_date_from">Date From :</string>
+    <string name="entry_date_to">Date To</string>
+
+    <string name="dialog_confirm_delete">Confirm Delete?</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_status_title">Select Status</string>
+    <string name="dialog_create_success">Timesheet Entry Successfully Created.</string>
+    <string name="dialog_create_fail">Timesheet Entry Failed.</string>
+    <string name="dialog_update_success">Timesheet Entry Successfully Updated.</string>
+    <string name="dialog_update_fail">Timesheet Entry Update Failed.</string>
+    <string name="dialog_delete_success">Timesheet Entry Successfully Deleted.</string>
+    <string name="dialog_delete_fail">Timesheet Entry Delete Failed.</string>
+
+    <string name="prompt_message_details">Please enter details.</string>
+
+    <string name="status_open">Open</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_closed">Closed</string>
+</resources>

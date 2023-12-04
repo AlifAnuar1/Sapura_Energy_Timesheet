@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420873122428",
+    "project_id": "sapura-energy-timesheet-51960",
+    "storage_bucket": "sapura-energy-timesheet-51960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420873122428:android:da08f7b8b41678f7718ff9",
+        "android_client_info": {
+          "package_name": "com.azcodes.sapuraenergytimesheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4sLZgQ5fXpVvXCw9uSbodPCXf74ocbDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
